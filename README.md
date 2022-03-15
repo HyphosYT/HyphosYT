@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HyphosYT
-- 👀 I’m interested in making real world programs with Python  
-- 🌱 I’m currently learning beginner python
+- 👀 I’m interested in making real world programs with Python and Minecraft Mods
+- 🌱 I’m currently learning beginner python and intermidiate in Java
 - 💞️ I’m looking to collaborate on not much but if you think i would be usefull then cool
 - 📫 How to reach me: contacthyphos@gmail.com
 
